@@ -1,5 +1,5 @@
 {
-  "name": "digger",
+  "name": "digger-game",
   "version": "0.0.1",
   "description": "",
   "main": "./dist/index.js",

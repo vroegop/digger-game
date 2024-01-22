@@ -1,0 +1,22 @@
+{
+  "name": "digger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack build",
+    "watch": "tsc --watch",
+    "dev": "webpack serve"
+  },
+  "author": "Randy Vroegop",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
